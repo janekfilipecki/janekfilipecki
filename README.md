@@ -9,8 +9,8 @@ You can contact me at: \
 
 ### 1. [Contest Management Platform](https://github.com/janekfilipecki/contest-management-platform)
 
-![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-purple?style=for-the-badge&logo=django)
+![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-purple?style=for-the-badge&logo=postgresql)
 ![React](https://img.shields.io/badge/React-purple?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-purple?style=for-the-badge&logo=javascript)
