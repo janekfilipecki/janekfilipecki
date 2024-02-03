@@ -31,10 +31,10 @@ Here i have documented my process of studying neural networks during one of my c
 ### 3. [Random forest implementation](https://github.com/janekfilipecki/random-forest)
 
 ![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-purple?style=for-the-badge&logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
-![Plotly](https://img.shields.io/badge/Plotly-purple?style=for-the-badge&logo=plotly)
 ![Wandb](https://img.shields.io/badge/Weights_&_Biases-purple?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-purple?style=for-the-badge&logo=plotly)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-purple?style=for-the-badge&logo=scikit-learn)
 
 In this repositry you can find a from-scratch implementation of a random forest algorithm using a CART algorithm, with pruning methods. 
 
