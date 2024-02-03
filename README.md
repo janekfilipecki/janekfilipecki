@@ -6,7 +6,8 @@ I'm a Computer Science student at WUT interested in AI. On my GitHub, you can fi
 ## Repos
 # Repository Readme
 
-### 1. Neural Networks
+### 1. Neural Networks(https://github.com/your-username/contest-management-platform)
+
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-purple?style=for-the-badge&logo=pytorch)
 ![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python)
