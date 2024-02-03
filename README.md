@@ -9,5 +9,4 @@ I'm a Computer Science student at WUT interested in AI. On my GitHub, you can fi
 ![Janek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janekfilipecki&theme=tokyonight&layout=compact)
 
 ## Contact Me
-
-Feel free to reach out to me at [filipeckijan@gmail.com](mailto:your-email@domain.com) if you have any questions or would like to collaborate on a project.
+[![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:filipeckijan@gmail.com)](filipeckijan@gmail.com)
