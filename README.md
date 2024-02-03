@@ -37,7 +37,7 @@ In this repositry you can find a from-scratch implementation of a random forest 
 
 Here i have documented my process of studying neural networks during one of my college courses.
 
-### 4. [Song clustering](https://github.com/your-username/song-clustering)
+### 4. [Song clustering](https://github.com/janekfilipecki/song-clustering)
 
 ![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-purple?style=for-the-badge&logo=scikit-learn)
