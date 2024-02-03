@@ -17,18 +17,7 @@ You can contact me at: \
 
 In this project me and my team set out to build a contest management supporting platform for the BoWarto foundation. We built a web app using django and React that enables the foundation to greatly simplify their workflow.
 
-### 2. [Neural networks](https://github.com/janekfilipecki/neural-networks)
-
-
-![PyTorch](https://img.shields.io/badge/PyTorch-purple?style=for-the-badge&logo=pytorch)
-![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-purple?style=for-the-badge&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
-![Plotly](https://img.shields.io/badge/Plotly-purple?style=for-the-badge&logo=plotly)
-
-Here i have documented my process of studying neural networks during one of my college courses.
-
-### 3. [Random forest implementation](https://github.com/janekfilipecki/random-forest)
+### 2. [Random forest implementation](https://github.com/janekfilipecki/random-forest)
 
 ![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
@@ -37,6 +26,16 @@ Here i have documented my process of studying neural networks during one of my c
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-purple?style=for-the-badge&logo=scikit-learn)
 
 In this repositry you can find a from-scratch implementation of a random forest algorithm using a CART algorithm, with pruning methods. 
+
+### 3. [Neural networks](https://github.com/janekfilipecki/neural-networks)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-purple?style=for-the-badge&logo=pytorch)
+![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-purple?style=for-the-badge&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
+![Plotly](https://img.shields.io/badge/Plotly-purple?style=for-the-badge&logo=plotly)
+
+Here i have documented my process of studying neural networks during one of my college courses.
 
 ### 4. [Song clustering](https://github.com/your-username/song-clustering)
 
