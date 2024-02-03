@@ -35,7 +35,7 @@ The Core Machine Learning repository is designed for foundational machine learni
 
 The Contest Management Platform repository is built using Python, Django, PostgreSQL, React, and JavaScript. It provides a comprehensive solution for managing and organizing contests.
 
-#### 4. [Song Clustering](https://github.com/your-username/song-clustering)
+### 4. [Song Clustering](https://github.com/your-username/song-clustering)
 
 ![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-purple?style=for-the-badge&logo=scikit-learn)
