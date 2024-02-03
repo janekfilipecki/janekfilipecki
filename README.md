@@ -6,7 +6,7 @@ I'm a Computer Science student at WUT interested in AI. On my GitHub, you can fi
 ## Repos
 # Repository Readme
 
-### 1. [Neural Networks](https://github.com/your-username/contest-management-platform)
+### 1. [Neural Networks](https://github.com/your-username/neural-networks)
 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-purple?style=for-the-badge&logo=pytorch)
@@ -17,7 +17,7 @@ I'm a Computer Science student at WUT interested in AI. On my GitHub, you can fi
 
 This repository focuses on neural networks, utilizing PyTorch, Python, Scikit-learn, Pandas, and Plotly for various machine learning tasks.
 
-### 2. Core Machine Learning
+### 2. [Core Machine Learning](https://github.com/your-username/core-machine-learning)
 
 ![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-purple?style=for-the-badge&logo=scikit-learn)
@@ -25,7 +25,7 @@ This repository focuses on neural networks, utilizing PyTorch, Python, Scikit-le
 
 The Core Machine Learning repository is designed for foundational machine learning operations. It heavily relies on Python, Scikit-learn, and Plotly for building and visualizing machine learning models.
 
-### 3. Contest Management Platform
+### 3. [Contest Management Platform](https://github.com/your-username/contest-management-platform)
 
 ![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-purple?style=for-the-badge&logo=django)
@@ -35,7 +35,7 @@ The Core Machine Learning repository is designed for foundational machine learni
 
 The Contest Management Platform repository is built using Python, Django, PostgreSQL, React, and JavaScript. It provides a comprehensive solution for managing and organizing contests.
 
-#### 4. Song Clustering
+#### 4. [Song Clustering](https://github.com/your-username/song-clustering)
 
 ![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-purple?style=for-the-badge&logo=scikit-learn)
