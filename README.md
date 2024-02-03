@@ -2,6 +2,9 @@
 
 I'm a Computer Science student at WUT interested in AI. On my GitHub, you can find some of my comp-sci projects. 
 
+You can contact me at: \
+[![Gmail Badge](https://img.shields.io/badge/-filipeckijan@gmail.com-purple?style=flat-roundedrectangle&logo=Gmail&logoColor=white)](mailto:filipeckijan@gmail.com)
+
 ## Repos
 
 ### 1. [Contest Management Platform](https://github.com/janekfilipecki/contest-management-platform)
@@ -40,6 +43,3 @@ This repo was used to build a complete solution for generating playlists for a f
 ![Plotly](https://img.shields.io/badge/Plotly-purple?style=for-the-badge&logo=plotly)
 
 Here i have stored the notebooks where I studied classic machine learning concepts and algorithms during one of my college courses. 
-
-## Contact Me
-[![Gmail Badge](https://img.shields.io/badge/-filipeckijan@gmail.com-purple?style=flat-roundedrectangle&logo=Gmail&logoColor=white)](mailto:filipeckijan@gmail.com)
